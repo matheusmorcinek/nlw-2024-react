@@ -1,0 +1,9 @@
+https://react.dev/learn/start-a-new-react-project  >>>> can I use react without a framework??
+
+usei Vite (https://vitejs.dev/):
+
+- é uma ferramenta que nos permite utilizar o javascript mais moderno possivel dentro de qualquer navegador.
+
+hmr -> hot module replacement -> é uma funcionalidade que permite que o navegador atualize automaticamente a página quando um arquivo é alterado.
+
+
